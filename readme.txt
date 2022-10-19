@@ -20,4 +20,4 @@ Git tracks  of files.
 
 ========验证而2=========
 
-在 branch create a new 开发完毕
+在 branch create a new is quick and simple 开发完毕
